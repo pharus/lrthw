@@ -23,3 +23,11 @@ Done, so far:
 - Exercise 14: Prompting and Passing
 - Exercise 15: Reading Files
 - Exercise 16: Reading and Writing Files
+- Exercise 17: More Files
+- Exercise 18: Names, Variables, Code, Functions
+- Exercise 19: Functions And Variables
+- Exercise 20: Functions And Files
+- Exercise 21: Functions can Return Something
+- Exercise 22: What Do You Know So Far?  _POSTPONED_
+- Exercise 23: Read Some Code _POSTPONED_
+- Exercise 24: More Practice
